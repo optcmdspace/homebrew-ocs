@@ -1,4 +1,4 @@
-cask "ocs" do
+cask "optcmdspace" do
   version "0.1.0"
   sha256 "eb117e942d48b69fbcfdb0cb87e18bf4d2cd9fce869c6e48e9d3d08c298d91bb"
 
