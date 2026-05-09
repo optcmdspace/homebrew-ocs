@@ -1,6 +1,6 @@
 cask "optcmdspace" do
-  version "0.1.0"
-  sha256 "eb117e942d48b69fbcfdb0cb87e18bf4d2cd9fce869c6e48e9d3d08c298d91bb"
+  version "0.2.0"
+  sha256 "c71563317584a4853415cd237c609f20c5cbd26345ebcc794942157f5fdcc30a"
 
   url "https://github.com/optcmdspace/ocs-macos/releases/download/v#{version}/OptCmdSpace-#{version}.dmg"
   name "OCS"
