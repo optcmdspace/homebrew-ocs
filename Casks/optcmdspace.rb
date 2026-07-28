@@ -7,6 +7,9 @@ cask "optcmdspace" do
   desc "Quick capture tool"
   homepage "https://optcmd.space/"
 
+  auto_updates true
+  depends_on macos: :sonoma
+
   app "OptCmdSpace.app"
 
   postflight do
